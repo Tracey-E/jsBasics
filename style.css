@@ -1,0 +1,15 @@
+#background {
+  height: 30vh;
+  width: 100vw;
+  font-size: 1.5em;
+}
+
+.light {
+  background-color: rgb(138, 151, 162);
+  color: blueviolet;
+}
+
+.dark {
+  background-color: black;
+  color: aliceblue;
+}
